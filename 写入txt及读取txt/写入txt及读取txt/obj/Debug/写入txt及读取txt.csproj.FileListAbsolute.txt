@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\写入txt及读取txt\写入txt及读取txt\bin\Debug\写入txt及读取txt.exe.config
+C:\Users\Administrator\source\repos\写入txt及读取txt\写入txt及读取txt\bin\Debug\写入txt及读取txt.exe
+C:\Users\Administrator\source\repos\写入txt及读取txt\写入txt及读取txt\bin\Debug\写入txt及读取txt.pdb
+C:\Users\Administrator\source\repos\写入txt及读取txt\写入txt及读取txt\obj\Debug\写入txt及读取txt.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\写入txt及读取txt\写入txt及读取txt\obj\Debug\写入txt及读取txt.Form1.resources
+C:\Users\Administrator\source\repos\写入txt及读取txt\写入txt及读取txt\obj\Debug\写入txt及读取txt.Properties.Resources.resources
+C:\Users\Administrator\source\repos\写入txt及读取txt\写入txt及读取txt\obj\Debug\写入txt及读取txt.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\写入txt及读取txt\写入txt及读取txt\obj\Debug\写入txt及读取txt.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\写入txt及读取txt\写入txt及读取txt\obj\Debug\写入txt及读取txt.exe
+C:\Users\Administrator\source\repos\写入txt及读取txt\写入txt及读取txt\obj\Debug\写入txt及读取txt.pdb

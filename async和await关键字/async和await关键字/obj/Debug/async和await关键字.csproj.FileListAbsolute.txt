@@ -1,0 +1,10 @@
+c:\users\administrator\source\repos\async和await关键字\async和await关键字\bin\Debug\async和await关键字.exe.config
+c:\users\administrator\source\repos\async和await关键字\async和await关键字\bin\Debug\async和await关键字.exe
+c:\users\administrator\source\repos\async和await关键字\async和await关键字\bin\Debug\async和await关键字.pdb
+c:\users\administrator\source\repos\async和await关键字\async和await关键字\obj\Debug\async和await关键字.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\async和await关键字\async和await关键字\obj\Debug\async和await关键字.Form1.resources
+c:\users\administrator\source\repos\async和await关键字\async和await关键字\obj\Debug\async和await关键字.Properties.Resources.resources
+c:\users\administrator\source\repos\async和await关键字\async和await关键字\obj\Debug\async和await关键字.csproj.GenerateResource.cache
+c:\users\administrator\source\repos\async和await关键字\async和await关键字\obj\Debug\async和await关键字.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\async和await关键字\async和await关键字\obj\Debug\async和await关键字.exe
+c:\users\administrator\source\repos\async和await关键字\async和await关键字\obj\Debug\async和await关键字.pdb

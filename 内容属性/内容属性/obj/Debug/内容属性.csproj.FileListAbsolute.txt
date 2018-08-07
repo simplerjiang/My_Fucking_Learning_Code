@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\内容属性\内容属性\bin\Debug\内容属性.exe.config
+C:\Users\Administrator\source\repos\内容属性\内容属性\bin\Debug\内容属性.exe
+C:\Users\Administrator\source\repos\内容属性\内容属性\bin\Debug\内容属性.pdb
+C:\Users\Administrator\source\repos\内容属性\内容属性\obj\Debug\内容属性.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\内容属性\内容属性\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\source\repos\内容属性\内容属性\obj\Debug\App.g.cs
+C:\Users\Administrator\source\repos\内容属性\内容属性\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrator\source\repos\内容属性\内容属性\obj\Debug\内容属性_MarkupCompile.cache
+C:\Users\Administrator\source\repos\内容属性\内容属性\obj\Debug\内容属性_MarkupCompile.lref
+C:\Users\Administrator\source\repos\内容属性\内容属性\obj\Debug\App.baml
+C:\Users\Administrator\source\repos\内容属性\内容属性\obj\Debug\MainWindow.baml
+C:\Users\Administrator\source\repos\内容属性\内容属性\obj\Debug\内容属性.g.resources
+C:\Users\Administrator\source\repos\内容属性\内容属性\obj\Debug\内容属性.Properties.Resources.resources
+C:\Users\Administrator\source\repos\内容属性\内容属性\obj\Debug\内容属性.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\内容属性\内容属性\obj\Debug\内容属性.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\内容属性\内容属性\obj\Debug\内容属性.exe
+C:\Users\Administrator\source\repos\内容属性\内容属性\obj\Debug\内容属性.pdb

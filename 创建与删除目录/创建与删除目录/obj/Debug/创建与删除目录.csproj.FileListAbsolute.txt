@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\创建与删除目录\创建与删除目录\bin\Debug\创建与删除目录.exe.config
+C:\Users\Administrator\source\repos\创建与删除目录\创建与删除目录\bin\Debug\创建与删除目录.exe
+C:\Users\Administrator\source\repos\创建与删除目录\创建与删除目录\bin\Debug\创建与删除目录.pdb
+C:\Users\Administrator\source\repos\创建与删除目录\创建与删除目录\obj\Debug\创建与删除目录.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\创建与删除目录\创建与删除目录\obj\Debug\创建与删除目录.Form1.resources
+C:\Users\Administrator\source\repos\创建与删除目录\创建与删除目录\obj\Debug\创建与删除目录.Properties.Resources.resources
+C:\Users\Administrator\source\repos\创建与删除目录\创建与删除目录\obj\Debug\创建与删除目录.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\创建与删除目录\创建与删除目录\obj\Debug\创建与删除目录.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\创建与删除目录\创建与删除目录\obj\Debug\创建与删除目录.exe
+C:\Users\Administrator\source\repos\创建与删除目录\创建与删除目录\obj\Debug\创建与删除目录.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\FileStream写入文件\FileStream写入文件\bin\Debug\FileStream写入文件.exe.config
+C:\Users\Administrator\source\repos\FileStream写入文件\FileStream写入文件\bin\Debug\FileStream写入文件.exe
+C:\Users\Administrator\source\repos\FileStream写入文件\FileStream写入文件\bin\Debug\FileStream写入文件.pdb
+C:\Users\Administrator\source\repos\FileStream写入文件\FileStream写入文件\obj\Debug\FileStream写入文件.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FileStream写入文件\FileStream写入文件\obj\Debug\FileStream写入文件.exe
+C:\Users\Administrator\source\repos\FileStream写入文件\FileStream写入文件\obj\Debug\FileStream写入文件.pdb

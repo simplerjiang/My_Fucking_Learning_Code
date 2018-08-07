@@ -1,0 +1,10 @@
+c:\users\administrator\source\repos\字体选择框\字体选择框\bin\Debug\字体选择框.exe.config
+c:\users\administrator\source\repos\字体选择框\字体选择框\bin\Debug\字体选择框.exe
+c:\users\administrator\source\repos\字体选择框\字体选择框\bin\Debug\字体选择框.pdb
+c:\users\administrator\source\repos\字体选择框\字体选择框\obj\Debug\字体选择框.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\字体选择框\字体选择框\obj\Debug\字体选择框.Form1.resources
+c:\users\administrator\source\repos\字体选择框\字体选择框\obj\Debug\字体选择框.Properties.Resources.resources
+c:\users\administrator\source\repos\字体选择框\字体选择框\obj\Debug\字体选择框.csproj.GenerateResource.cache
+c:\users\administrator\source\repos\字体选择框\字体选择框\obj\Debug\字体选择框.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\字体选择框\字体选择框\obj\Debug\字体选择框.exe
+c:\users\administrator\source\repos\字体选择框\字体选择框\obj\Debug\字体选择框.pdb

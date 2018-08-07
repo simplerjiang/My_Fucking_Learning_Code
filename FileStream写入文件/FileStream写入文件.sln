@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStream写入文件", "FileStream写入文件\FileStream写入文件.csproj", "{BBA7AD4F-8266-4640-AC54-A0F465424EA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBA7AD4F-8266-4640-AC54-A0F465424EA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA7AD4F-8266-4640-AC54-A0F465424EA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA7AD4F-8266-4640-AC54-A0F465424EA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA7AD4F-8266-4640-AC54-A0F465424EA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {807BBFFC-D2C4-40A5-9835-AF19FDA08750}
+	EndGlobalSection
+EndGlobal

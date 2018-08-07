@@ -1,0 +1,17 @@
+c:\users\administrator\source\repos\msdn演练\msdn演练\bin\Debug\msdn演练.exe.config
+c:\users\administrator\source\repos\msdn演练\msdn演练\bin\Debug\msdn演练.exe
+c:\users\administrator\source\repos\msdn演练\msdn演练\bin\Debug\msdn演练.pdb
+c:\users\administrator\source\repos\msdn演练\msdn演练\obj\Debug\msdn演练.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\msdn演练\msdn演练\obj\Debug\MainWindow.baml
+c:\users\administrator\source\repos\msdn演练\msdn演练\obj\Debug\MainWindow.g.cs
+c:\users\administrator\source\repos\msdn演练\msdn演练\obj\Debug\App.g.cs
+c:\users\administrator\source\repos\msdn演练\msdn演练\obj\Debug\msdn演练_MarkupCompile.cache
+c:\users\administrator\source\repos\msdn演练\msdn演练\obj\Debug\msdn演练.g.resources
+c:\users\administrator\source\repos\msdn演练\msdn演练\obj\Debug\msdn演练.Properties.Resources.resources
+c:\users\administrator\source\repos\msdn演练\msdn演练\obj\Debug\msdn演练.csproj.GenerateResource.cache
+c:\users\administrator\source\repos\msdn演练\msdn演练\obj\Debug\msdn演练.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\msdn演练\msdn演练\obj\Debug\msdn演练.exe
+c:\users\administrator\source\repos\msdn演练\msdn演练\obj\Debug\msdn演练.pdb
+c:\users\administrator\source\repos\msdn演练\msdn演练\obj\Debug\ExpenseItHome.g.cs
+c:\users\administrator\source\repos\msdn演练\msdn演练\obj\Debug\msdn演练_MarkupCompile.lref
+c:\users\administrator\source\repos\msdn演练\msdn演练\obj\Debug\ExpenseItHome.baml

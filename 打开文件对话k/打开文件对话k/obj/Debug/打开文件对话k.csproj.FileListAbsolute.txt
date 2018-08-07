@@ -1,0 +1,10 @@
+c:\users\administrator\source\repos\打开文件对话k\打开文件对话k\bin\Debug\打开文件对话k.exe.config
+c:\users\administrator\source\repos\打开文件对话k\打开文件对话k\bin\Debug\打开文件对话k.exe
+c:\users\administrator\source\repos\打开文件对话k\打开文件对话k\bin\Debug\打开文件对话k.pdb
+c:\users\administrator\source\repos\打开文件对话k\打开文件对话k\obj\Debug\打开文件对话k.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\打开文件对话k\打开文件对话k\obj\Debug\打开文件对话k.Form1.resources
+c:\users\administrator\source\repos\打开文件对话k\打开文件对话k\obj\Debug\打开文件对话k.Properties.Resources.resources
+c:\users\administrator\source\repos\打开文件对话k\打开文件对话k\obj\Debug\打开文件对话k.csproj.GenerateResource.cache
+c:\users\administrator\source\repos\打开文件对话k\打开文件对话k\obj\Debug\打开文件对话k.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\打开文件对话k\打开文件对话k\obj\Debug\打开文件对话k.exe
+c:\users\administrator\source\repos\打开文件对话k\打开文件对话k\obj\Debug\打开文件对话k.pdb

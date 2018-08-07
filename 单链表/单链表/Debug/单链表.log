@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\administrator\source\repos\单链表\单链表\main.c(12): warning C4047: “=”:“LinkList”与“LinkList *”的间接级别不同
+c:\users\administrator\source\repos\单链表\单链表\main.c(54): warning C4101: “n”: 未引用的局部变量
+  单链表.vcxproj -> C:\Users\Administrator\source\repos\单链表\Debug\单链表.exe

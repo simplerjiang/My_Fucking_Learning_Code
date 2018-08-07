@@ -1,0 +1,10 @@
+c:\users\administrator\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.0\ConsoleApp8.deps.json
+c:\users\administrator\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.0\ConsoleApp8.runtimeconfig.json
+c:\users\administrator\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.0\ConsoleApp8.runtimeconfig.dev.json
+c:\users\administrator\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.0\ConsoleApp8.dll
+c:\users\administrator\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.0\ConsoleApp8.pdb
+c:\users\administrator\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.AssemblyInfoInputs.cache
+c:\users\administrator\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.AssemblyInfo.cs
+c:\users\administrator\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.dll
+c:\users\administrator\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.0\ConsoleApp8.pdb

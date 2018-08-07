@@ -1,0 +1,11 @@
+c:\users\administrator\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.0\ConsoleApp7.deps.json
+c:\users\administrator\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.0\ConsoleApp7.runtimeconfig.json
+c:\users\administrator\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.0\ConsoleApp7.runtimeconfig.dev.json
+c:\users\administrator\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.0\ConsoleApp7.dll
+c:\users\administrator\source\repos\ConsoleApp7\ConsoleApp7\bin\Debug\netcoreapp2.0\ConsoleApp7.pdb
+c:\users\administrator\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.0\ConsoleApp7.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.0\ConsoleApp7.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.0\ConsoleApp7.AssemblyInfoInputs.cache
+c:\users\administrator\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.0\ConsoleApp7.AssemblyInfo.cs
+c:\users\administrator\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.0\ConsoleApp7.dll
+c:\users\administrator\source\repos\ConsoleApp7\ConsoleApp7\obj\Debug\netcoreapp2.0\ConsoleApp7.pdb

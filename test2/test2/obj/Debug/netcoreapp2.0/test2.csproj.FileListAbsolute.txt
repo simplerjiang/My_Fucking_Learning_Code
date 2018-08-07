@@ -1,0 +1,11 @@
+c:\users\administrator\source\repos\test2\test2\bin\Debug\netcoreapp2.0\test2.deps.json
+c:\users\administrator\source\repos\test2\test2\bin\Debug\netcoreapp2.0\test2.runtimeconfig.json
+c:\users\administrator\source\repos\test2\test2\bin\Debug\netcoreapp2.0\test2.runtimeconfig.dev.json
+c:\users\administrator\source\repos\test2\test2\bin\Debug\netcoreapp2.0\test2.dll
+c:\users\administrator\source\repos\test2\test2\bin\Debug\netcoreapp2.0\test2.pdb
+c:\users\administrator\source\repos\test2\test2\obj\Debug\netcoreapp2.0\test2.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\test2\test2\obj\Debug\netcoreapp2.0\test2.AssemblyInfoInputs.cache
+c:\users\administrator\source\repos\test2\test2\obj\Debug\netcoreapp2.0\test2.AssemblyInfo.cs
+c:\users\administrator\source\repos\test2\test2\obj\Debug\netcoreapp2.0\test2.dll
+c:\users\administrator\source\repos\test2\test2\obj\Debug\netcoreapp2.0\test2.pdb
+c:\users\administrator\source\repos\test2\test2\obj\Debug\netcoreapp2.0\test2.csprojAssemblyReference.cache

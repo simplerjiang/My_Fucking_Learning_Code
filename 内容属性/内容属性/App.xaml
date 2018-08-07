@@ -1,0 +1,11 @@
+﻿<Application x:Class="内容属性.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:内容属性"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <local:Employee x:Key="e1" ID="1">小黄</local:Employee>
+        <local:Employee x:Key="e2" ID="2">小韩</local:Employee>
+        <local:Employee x:Key="e3" ID="3" Name="小赵"/>
+    </Application.Resources>
+</Application>

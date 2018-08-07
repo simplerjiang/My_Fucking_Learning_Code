@@ -1,0 +1,9 @@
+﻿  main.c
+c:\users\administrator\source\repos\魔术师发牌\魔术师发牌\main.c(27): warning C4047: “函数”:“LinkList”与“LinkList *”的间接级别不同
+c:\users\administrator\source\repos\魔术师发牌\魔术师发牌\main.c(27): warning C4024: “IntoList”: 形参和实参 1 的类型不同
+c:\users\administrator\source\repos\魔术师发牌\魔术师发牌\main.c(51): warning C4047: “=”:“ElemTpye”与“void *”的间接级别不同
+c:\users\administrator\source\repos\魔术师发牌\魔术师发牌\main.c(58): warning C4047: “=”:“ElemTpye”与“void *”的间接级别不同
+c:\users\administrator\source\repos\魔术师发牌\魔术师发牌\main.c(63): warning C4028: 形参 1 与声明不同
+c:\users\administrator\source\repos\魔术师发牌\魔术师发牌\main.c(79): warning C4047: “==”:“ElemTpye”与“void *”的间接级别不同
+c:\users\administrator\source\repos\魔术师发牌\魔术师发牌\main.c(84): warning C4047: “!=”:“ElemTpye”与“void *”的间接级别不同
+  魔术师发牌.vcxproj -> C:\Users\Administrator\source\repos\魔术师发牌\Debug\魔术师发牌.exe

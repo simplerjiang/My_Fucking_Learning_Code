@@ -1,0 +1,10 @@
+c:\users\administrator\source\repos\cmd重定向输入输出\cmd重定向输入输出\bin\Debug\cmd重定向输入输出.exe.config
+c:\users\administrator\source\repos\cmd重定向输入输出\cmd重定向输入输出\bin\Debug\cmd重定向输入输出.exe
+c:\users\administrator\source\repos\cmd重定向输入输出\cmd重定向输入输出\bin\Debug\cmd重定向输入输出.pdb
+c:\users\administrator\source\repos\cmd重定向输入输出\cmd重定向输入输出\obj\Debug\cmd重定向输入输出.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\cmd重定向输入输出\cmd重定向输入输出\obj\Debug\cmd重定向输入输出.Form1.resources
+c:\users\administrator\source\repos\cmd重定向输入输出\cmd重定向输入输出\obj\Debug\cmd重定向输入输出.Properties.Resources.resources
+c:\users\administrator\source\repos\cmd重定向输入输出\cmd重定向输入输出\obj\Debug\cmd重定向输入输出.csproj.GenerateResource.cache
+c:\users\administrator\source\repos\cmd重定向输入输出\cmd重定向输入输出\obj\Debug\cmd重定向输入输出.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\cmd重定向输入输出\cmd重定向输入输出\obj\Debug\cmd重定向输入输出.exe
+c:\users\administrator\source\repos\cmd重定向输入输出\cmd重定向输入输出\obj\Debug\cmd重定向输入输出.pdb

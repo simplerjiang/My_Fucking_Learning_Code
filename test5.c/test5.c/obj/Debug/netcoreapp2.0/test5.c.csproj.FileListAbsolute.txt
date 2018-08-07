@@ -1,0 +1,11 @@
+c:\users\administrator\source\repos\test5.c\test5.c\bin\Debug\netcoreapp2.0\test5.c.deps.json
+c:\users\administrator\source\repos\test5.c\test5.c\bin\Debug\netcoreapp2.0\test5.c.runtimeconfig.json
+c:\users\administrator\source\repos\test5.c\test5.c\bin\Debug\netcoreapp2.0\test5.c.runtimeconfig.dev.json
+c:\users\administrator\source\repos\test5.c\test5.c\bin\Debug\netcoreapp2.0\test5.c.dll
+c:\users\administrator\source\repos\test5.c\test5.c\bin\Debug\netcoreapp2.0\test5.c.pdb
+c:\users\administrator\source\repos\test5.c\test5.c\obj\Debug\netcoreapp2.0\test5.c.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\test5.c\test5.c\obj\Debug\netcoreapp2.0\test5.c.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\test5.c\test5.c\obj\Debug\netcoreapp2.0\test5.c.AssemblyInfoInputs.cache
+c:\users\administrator\source\repos\test5.c\test5.c\obj\Debug\netcoreapp2.0\test5.c.AssemblyInfo.cs
+c:\users\administrator\source\repos\test5.c\test5.c\obj\Debug\netcoreapp2.0\test5.c.dll
+c:\users\administrator\source\repos\test5.c\test5.c\obj\Debug\netcoreapp2.0\test5.c.pdb

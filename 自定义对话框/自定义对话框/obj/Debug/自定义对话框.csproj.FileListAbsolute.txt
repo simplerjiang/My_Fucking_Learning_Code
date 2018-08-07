@@ -1,0 +1,11 @@
+c:\users\administrator\source\repos\自定义对话框\自定义对话框\bin\Debug\自定义对话框.exe.config
+c:\users\administrator\source\repos\自定义对话框\自定义对话框\bin\Debug\自定义对话框.exe
+c:\users\administrator\source\repos\自定义对话框\自定义对话框\bin\Debug\自定义对话框.pdb
+c:\users\administrator\source\repos\自定义对话框\自定义对话框\obj\Debug\自定义对话框.csprojAssemblyReference.cache
+c:\users\administrator\source\repos\自定义对话框\自定义对话框\obj\Debug\自定义对话框.Form1.resources
+c:\users\administrator\source\repos\自定义对话框\自定义对话框\obj\Debug\自定义对话框.frmDialog.resources
+c:\users\administrator\source\repos\自定义对话框\自定义对话框\obj\Debug\自定义对话框.Properties.Resources.resources
+c:\users\administrator\source\repos\自定义对话框\自定义对话框\obj\Debug\自定义对话框.csproj.GenerateResource.cache
+c:\users\administrator\source\repos\自定义对话框\自定义对话框\obj\Debug\自定义对话框.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\自定义对话框\自定义对话框\obj\Debug\自定义对话框.exe
+c:\users\administrator\source\repos\自定义对话框\自定义对话框\obj\Debug\自定义对话框.pdb

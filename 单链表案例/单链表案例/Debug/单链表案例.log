@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\administrator\source\repos\单链表案例\单链表案例\main.c(55): warning C4715: “InitList”: 不是所有的控件路径都返回值
+c:\users\administrator\source\repos\单链表案例\单链表案例\main.c(103): warning C4715: “AddListTail”: 不是所有的控件路径都返回值
+  单链表案例.vcxproj -> C:\Users\Administrator\source\repos\单链表案例\Debug\单链表案例.exe

@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\线程锁\线程锁\bin\Debug\线程锁.exe.config
+C:\Users\Administrator\source\repos\线程锁\线程锁\bin\Debug\线程锁.exe
+C:\Users\Administrator\source\repos\线程锁\线程锁\bin\Debug\线程锁.pdb
+C:\Users\Administrator\source\repos\线程锁\线程锁\obj\Debug\线程锁.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\线程锁\线程锁\obj\Debug\线程锁.Form1.resources
+C:\Users\Administrator\source\repos\线程锁\线程锁\obj\Debug\线程锁.Properties.Resources.resources
+C:\Users\Administrator\source\repos\线程锁\线程锁\obj\Debug\线程锁.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\线程锁\线程锁\obj\Debug\线程锁.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\线程锁\线程锁\obj\Debug\线程锁.exe
+C:\Users\Administrator\source\repos\线程锁\线程锁\obj\Debug\线程锁.pdb
