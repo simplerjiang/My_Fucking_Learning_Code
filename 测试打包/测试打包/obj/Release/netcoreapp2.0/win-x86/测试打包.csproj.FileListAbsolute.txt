@@ -1,0 +1,13 @@
+D:\C#学习代码\测试打包\测试打包\bin\Release\netcoreapp2.0\win-x86\hostpolicy.dll
+D:\C#学习代码\测试打包\测试打包\bin\Release\netcoreapp2.0\win-x86\hostfxr.dll
+D:\C#学习代码\测试打包\测试打包\bin\Release\netcoreapp2.0\win-x86\测试打包.exe
+D:\C#学习代码\测试打包\测试打包\bin\Release\netcoreapp2.0\win-x86\测试打包.deps.json
+D:\C#学习代码\测试打包\测试打包\bin\Release\netcoreapp2.0\win-x86\测试打包.runtimeconfig.json
+D:\C#学习代码\测试打包\测试打包\bin\Release\netcoreapp2.0\win-x86\测试打包.runtimeconfig.dev.json
+D:\C#学习代码\测试打包\测试打包\bin\Release\netcoreapp2.0\win-x86\测试打包.dll
+D:\C#学习代码\测试打包\测试打包\bin\Release\netcoreapp2.0\win-x86\测试打包.pdb
+D:\C#学习代码\测试打包\测试打包\obj\Release\netcoreapp2.0\win-x86\测试打包.csproj.CoreCompileInputs.cache
+D:\C#学习代码\测试打包\测试打包\obj\Release\netcoreapp2.0\win-x86\测试打包.AssemblyInfoInputs.cache
+D:\C#学习代码\测试打包\测试打包\obj\Release\netcoreapp2.0\win-x86\测试打包.AssemblyInfo.cs
+D:\C#学习代码\测试打包\测试打包\obj\Release\netcoreapp2.0\win-x86\测试打包.dll
+D:\C#学习代码\测试打包\测试打包\obj\Release\netcoreapp2.0\win-x86\测试打包.pdb

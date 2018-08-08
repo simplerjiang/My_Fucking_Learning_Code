@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListBox控件", "ListBox控件\ListBox控件.csproj", "{97759E5E-44AD-48DB-9524-97CA73ABC615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97759E5E-44AD-48DB-9524-97CA73ABC615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97759E5E-44AD-48DB-9524-97CA73ABC615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97759E5E-44AD-48DB-9524-97CA73ABC615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97759E5E-44AD-48DB-9524-97CA73ABC615}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF20B3D6-72B1-4D1F-8E01-914BC0098FA1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+D:\C#学习代码\登陆\登陆\bin\Debug\登陆.exe.config
+D:\C#学习代码\登陆\登陆\bin\Debug\登陆.exe
+D:\C#学习代码\登陆\登陆\bin\Debug\登陆.pdb
+D:\C#学习代码\登陆\登陆\obj\Debug\登陆.csprojAssemblyReference.cache
+D:\C#学习代码\登陆\登陆\obj\Debug\登陆.Form1.resources
+D:\C#学习代码\登陆\登陆\obj\Debug\登陆.Properties.Resources.resources
+D:\C#学习代码\登陆\登陆\obj\Debug\登陆.csproj.GenerateResource.cache
+D:\C#学习代码\登陆\登陆\obj\Debug\登陆.csproj.CoreCompileInputs.cache
+D:\C#学习代码\登陆\登陆\obj\Debug\登陆.exe
+D:\C#学习代码\登陆\登陆\obj\Debug\登陆.pdb

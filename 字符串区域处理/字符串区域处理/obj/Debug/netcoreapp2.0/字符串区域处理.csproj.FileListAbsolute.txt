@@ -1,0 +1,11 @@
+D:\C#学习代码\字符串区域处理\字符串区域处理\bin\Debug\netcoreapp2.0\字符串区域处理.deps.json
+D:\C#学习代码\字符串区域处理\字符串区域处理\bin\Debug\netcoreapp2.0\字符串区域处理.runtimeconfig.json
+D:\C#学习代码\字符串区域处理\字符串区域处理\bin\Debug\netcoreapp2.0\字符串区域处理.runtimeconfig.dev.json
+D:\C#学习代码\字符串区域处理\字符串区域处理\bin\Debug\netcoreapp2.0\字符串区域处理.dll
+D:\C#学习代码\字符串区域处理\字符串区域处理\bin\Debug\netcoreapp2.0\字符串区域处理.pdb
+D:\C#学习代码\字符串区域处理\字符串区域处理\obj\Debug\netcoreapp2.0\字符串区域处理.csprojAssemblyReference.cache
+D:\C#学习代码\字符串区域处理\字符串区域处理\obj\Debug\netcoreapp2.0\字符串区域处理.csproj.CoreCompileInputs.cache
+D:\C#学习代码\字符串区域处理\字符串区域处理\obj\Debug\netcoreapp2.0\字符串区域处理.AssemblyInfoInputs.cache
+D:\C#学习代码\字符串区域处理\字符串区域处理\obj\Debug\netcoreapp2.0\字符串区域处理.AssemblyInfo.cs
+D:\C#学习代码\字符串区域处理\字符串区域处理\obj\Debug\netcoreapp2.0\字符串区域处理.dll
+D:\C#学习代码\字符串区域处理\字符串区域处理\obj\Debug\netcoreapp2.0\字符串区域处理.pdb

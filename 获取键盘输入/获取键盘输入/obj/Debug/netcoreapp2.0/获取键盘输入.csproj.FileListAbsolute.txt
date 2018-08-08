@@ -1,0 +1,10 @@
+D:\C#学习代码\获取键盘输入\获取键盘输入\bin\Debug\netcoreapp2.0\获取键盘输入.deps.json
+D:\C#学习代码\获取键盘输入\获取键盘输入\bin\Debug\netcoreapp2.0\获取键盘输入.runtimeconfig.json
+D:\C#学习代码\获取键盘输入\获取键盘输入\bin\Debug\netcoreapp2.0\获取键盘输入.runtimeconfig.dev.json
+D:\C#学习代码\获取键盘输入\获取键盘输入\bin\Debug\netcoreapp2.0\获取键盘输入.dll
+D:\C#学习代码\获取键盘输入\获取键盘输入\bin\Debug\netcoreapp2.0\获取键盘输入.pdb
+D:\C#学习代码\获取键盘输入\获取键盘输入\obj\Debug\netcoreapp2.0\获取键盘输入.csproj.CoreCompileInputs.cache
+D:\C#学习代码\获取键盘输入\获取键盘输入\obj\Debug\netcoreapp2.0\获取键盘输入.AssemblyInfoInputs.cache
+D:\C#学习代码\获取键盘输入\获取键盘输入\obj\Debug\netcoreapp2.0\获取键盘输入.AssemblyInfo.cs
+D:\C#学习代码\获取键盘输入\获取键盘输入\obj\Debug\netcoreapp2.0\获取键盘输入.dll
+D:\C#学习代码\获取键盘输入\获取键盘输入\obj\Debug\netcoreapp2.0\获取键盘输入.pdb

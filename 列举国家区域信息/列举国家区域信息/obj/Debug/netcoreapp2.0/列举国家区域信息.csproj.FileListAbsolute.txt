@@ -1,0 +1,11 @@
+D:\C#学习代码\列举国家区域信息\列举国家区域信息\obj\Debug\netcoreapp2.0\列举国家区域信息.csprojAssemblyReference.cache
+D:\C#学习代码\列举国家区域信息\列举国家区域信息\obj\Debug\netcoreapp2.0\列举国家区域信息.csproj.CoreCompileInputs.cache
+D:\C#学习代码\列举国家区域信息\列举国家区域信息\obj\Debug\netcoreapp2.0\列举国家区域信息.AssemblyInfoInputs.cache
+D:\C#学习代码\列举国家区域信息\列举国家区域信息\obj\Debug\netcoreapp2.0\列举国家区域信息.AssemblyInfo.cs
+D:\C#学习代码\列举国家区域信息\列举国家区域信息\bin\Debug\netcoreapp2.0\列举国家区域信息.deps.json
+D:\C#学习代码\列举国家区域信息\列举国家区域信息\bin\Debug\netcoreapp2.0\列举国家区域信息.runtimeconfig.json
+D:\C#学习代码\列举国家区域信息\列举国家区域信息\bin\Debug\netcoreapp2.0\列举国家区域信息.runtimeconfig.dev.json
+D:\C#学习代码\列举国家区域信息\列举国家区域信息\bin\Debug\netcoreapp2.0\列举国家区域信息.dll
+D:\C#学习代码\列举国家区域信息\列举国家区域信息\bin\Debug\netcoreapp2.0\列举国家区域信息.pdb
+D:\C#学习代码\列举国家区域信息\列举国家区域信息\obj\Debug\netcoreapp2.0\列举国家区域信息.dll
+D:\C#学习代码\列举国家区域信息\列举国家区域信息\obj\Debug\netcoreapp2.0\列举国家区域信息.pdb

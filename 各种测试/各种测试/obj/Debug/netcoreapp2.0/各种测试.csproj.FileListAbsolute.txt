@@ -1,0 +1,11 @@
+D:\C#学习代码\各种测试\各种测试\obj\Debug\netcoreapp2.0\各种测试.csproj.CoreCompileInputs.cache
+D:\C#学习代码\各种测试\各种测试\obj\Debug\netcoreapp2.0\各种测试.AssemblyInfoInputs.cache
+D:\C#学习代码\各种测试\各种测试\obj\Debug\netcoreapp2.0\各种测试.AssemblyInfo.cs
+D:\C#学习代码\各种测试\各种测试\bin\Debug\netcoreapp2.0\各种测试.deps.json
+D:\C#学习代码\各种测试\各种测试\bin\Debug\netcoreapp2.0\各种测试.runtimeconfig.json
+D:\C#学习代码\各种测试\各种测试\bin\Debug\netcoreapp2.0\各种测试.runtimeconfig.dev.json
+D:\C#学习代码\各种测试\各种测试\bin\Debug\netcoreapp2.0\各种测试.dll
+D:\C#学习代码\各种测试\各种测试\bin\Debug\netcoreapp2.0\各种测试.pdb
+D:\C#学习代码\各种测试\各种测试\obj\Debug\netcoreapp2.0\各种测试.dll
+D:\C#学习代码\各种测试\各种测试\obj\Debug\netcoreapp2.0\各种测试.pdb
+D:\C#学习代码\各种测试\各种测试\obj\Debug\netcoreapp2.0\各种测试.csprojAssemblyReference.cache

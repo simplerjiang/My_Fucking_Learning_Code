@@ -1,0 +1,10 @@
+D:\C#学习代码\调试方法\调试方法\bin\Debug\netcoreapp2.0\调试方法.deps.json
+D:\C#学习代码\调试方法\调试方法\bin\Debug\netcoreapp2.0\调试方法.runtimeconfig.json
+D:\C#学习代码\调试方法\调试方法\bin\Debug\netcoreapp2.0\调试方法.runtimeconfig.dev.json
+D:\C#学习代码\调试方法\调试方法\bin\Debug\netcoreapp2.0\调试方法.dll
+D:\C#学习代码\调试方法\调试方法\bin\Debug\netcoreapp2.0\调试方法.pdb
+D:\C#学习代码\调试方法\调试方法\obj\Debug\netcoreapp2.0\调试方法.csproj.CoreCompileInputs.cache
+D:\C#学习代码\调试方法\调试方法\obj\Debug\netcoreapp2.0\调试方法.AssemblyInfoInputs.cache
+D:\C#学习代码\调试方法\调试方法\obj\Debug\netcoreapp2.0\调试方法.AssemblyInfo.cs
+D:\C#学习代码\调试方法\调试方法\obj\Debug\netcoreapp2.0\调试方法.dll
+D:\C#学习代码\调试方法\调试方法\obj\Debug\netcoreapp2.0\调试方法.pdb

@@ -1,0 +1,10 @@
+D:\C#学习代码\菜单栏\菜单栏\bin\Debug\菜单栏.exe.config
+D:\C#学习代码\菜单栏\菜单栏\bin\Debug\菜单栏.exe
+D:\C#学习代码\菜单栏\菜单栏\bin\Debug\菜单栏.pdb
+D:\C#学习代码\菜单栏\菜单栏\obj\Debug\菜单栏.csprojAssemblyReference.cache
+D:\C#学习代码\菜单栏\菜单栏\obj\Debug\菜单栏.Form1.resources
+D:\C#学习代码\菜单栏\菜单栏\obj\Debug\菜单栏.Properties.Resources.resources
+D:\C#学习代码\菜单栏\菜单栏\obj\Debug\菜单栏.csproj.GenerateResource.cache
+D:\C#学习代码\菜单栏\菜单栏\obj\Debug\菜单栏.csproj.CoreCompileInputs.cache
+D:\C#学习代码\菜单栏\菜单栏\obj\Debug\菜单栏.exe
+D:\C#学习代码\菜单栏\菜单栏\obj\Debug\菜单栏.pdb

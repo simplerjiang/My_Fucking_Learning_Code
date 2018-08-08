@@ -1,0 +1,10 @@
+D:\C#学习代码\选项卡\选项卡\bin\Debug\选项卡.exe.config
+D:\C#学习代码\选项卡\选项卡\bin\Debug\选项卡.exe
+D:\C#学习代码\选项卡\选项卡\bin\Debug\选项卡.pdb
+D:\C#学习代码\选项卡\选项卡\obj\Debug\选项卡.csprojAssemblyReference.cache
+D:\C#学习代码\选项卡\选项卡\obj\Debug\选项卡.Form1.resources
+D:\C#学习代码\选项卡\选项卡\obj\Debug\选项卡.Properties.Resources.resources
+D:\C#学习代码\选项卡\选项卡\obj\Debug\选项卡.csproj.GenerateResource.cache
+D:\C#学习代码\选项卡\选项卡\obj\Debug\选项卡.csproj.CoreCompileInputs.cache
+D:\C#学习代码\选项卡\选项卡\obj\Debug\选项卡.exe
+D:\C#学习代码\选项卡\选项卡\obj\Debug\选项卡.pdb

@@ -1,0 +1,11 @@
+D:\C#学习代码\数组练习1\数组练习1\bin\Debug\netcoreapp2.0\数组练习1.deps.json
+D:\C#学习代码\数组练习1\数组练习1\bin\Debug\netcoreapp2.0\数组练习1.runtimeconfig.json
+D:\C#学习代码\数组练习1\数组练习1\bin\Debug\netcoreapp2.0\数组练习1.runtimeconfig.dev.json
+D:\C#学习代码\数组练习1\数组练习1\bin\Debug\netcoreapp2.0\数组练习1.dll
+D:\C#学习代码\数组练习1\数组练习1\bin\Debug\netcoreapp2.0\数组练习1.pdb
+D:\C#学习代码\数组练习1\数组练习1\obj\Debug\netcoreapp2.0\数组练习1.csprojAssemblyReference.cache
+D:\C#学习代码\数组练习1\数组练习1\obj\Debug\netcoreapp2.0\数组练习1.csproj.CoreCompileInputs.cache
+D:\C#学习代码\数组练习1\数组练习1\obj\Debug\netcoreapp2.0\数组练习1.AssemblyInfoInputs.cache
+D:\C#学习代码\数组练习1\数组练习1\obj\Debug\netcoreapp2.0\数组练习1.AssemblyInfo.cs
+D:\C#学习代码\数组练习1\数组练习1\obj\Debug\netcoreapp2.0\数组练习1.dll
+D:\C#学习代码\数组练习1\数组练习1\obj\Debug\netcoreapp2.0\数组练习1.pdb

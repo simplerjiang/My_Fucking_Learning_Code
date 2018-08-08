@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextBox自动完成", "TextBox自动完成\TextBox自动完成.csproj", "{73770D6A-9FF5-4042-8C84-4C0A1598258C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73770D6A-9FF5-4042-8C84-4C0A1598258C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73770D6A-9FF5-4042-8C84-4C0A1598258C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73770D6A-9FF5-4042-8C84-4C0A1598258C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73770D6A-9FF5-4042-8C84-4C0A1598258C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5914E6D-9DBC-4A2E-938A-FB450C8B06E7}
+	EndGlobalSection
+EndGlobal

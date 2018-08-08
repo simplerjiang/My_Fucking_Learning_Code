@@ -1,0 +1,9 @@
+D:\C#学习代码\应用程序项目\应用程序项目\bin\Debug\应用程序项目.exe.config
+D:\C#学习代码\应用程序项目\应用程序项目\bin\Debug\应用程序项目.exe
+D:\C#学习代码\应用程序项目\应用程序项目\bin\Debug\应用程序项目.pdb
+D:\C#学习代码\应用程序项目\应用程序项目\obj\Debug\应用程序项目.csprojAssemblyReference.cache
+D:\C#学习代码\应用程序项目\应用程序项目\obj\Debug\应用程序项目.Properties.Resources.resources
+D:\C#学习代码\应用程序项目\应用程序项目\obj\Debug\应用程序项目.csproj.GenerateResource.cache
+D:\C#学习代码\应用程序项目\应用程序项目\obj\Debug\应用程序项目.csproj.CoreCompileInputs.cache
+D:\C#学习代码\应用程序项目\应用程序项目\obj\Debug\应用程序项目.exe
+D:\C#学习代码\应用程序项目\应用程序项目\obj\Debug\应用程序项目.pdb

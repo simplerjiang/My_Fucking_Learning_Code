@@ -1,0 +1,11 @@
+D:\C#学习代码\测试打包\测试打包\bin\Debug\netcoreapp2.0\测试打包.deps.json
+D:\C#学习代码\测试打包\测试打包\bin\Debug\netcoreapp2.0\测试打包.runtimeconfig.json
+D:\C#学习代码\测试打包\测试打包\bin\Debug\netcoreapp2.0\测试打包.runtimeconfig.dev.json
+D:\C#学习代码\测试打包\测试打包\bin\Debug\netcoreapp2.0\测试打包.dll
+D:\C#学习代码\测试打包\测试打包\bin\Debug\netcoreapp2.0\测试打包.pdb
+D:\C#学习代码\测试打包\测试打包\obj\Debug\netcoreapp2.0\测试打包.csprojAssemblyReference.cache
+D:\C#学习代码\测试打包\测试打包\obj\Debug\netcoreapp2.0\测试打包.csproj.CoreCompileInputs.cache
+D:\C#学习代码\测试打包\测试打包\obj\Debug\netcoreapp2.0\测试打包.AssemblyInfoInputs.cache
+D:\C#学习代码\测试打包\测试打包\obj\Debug\netcoreapp2.0\测试打包.AssemblyInfo.cs
+D:\C#学习代码\测试打包\测试打包\obj\Debug\netcoreapp2.0\测试打包.dll
+D:\C#学习代码\测试打包\测试打包\obj\Debug\netcoreapp2.0\测试打包.pdb

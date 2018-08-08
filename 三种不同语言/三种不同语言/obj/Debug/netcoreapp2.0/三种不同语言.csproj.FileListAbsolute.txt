@@ -1,0 +1,11 @@
+D:\C#学习代码\三种不同语言\三种不同语言\bin\Debug\netcoreapp2.0\三种不同语言.deps.json
+D:\C#学习代码\三种不同语言\三种不同语言\bin\Debug\netcoreapp2.0\三种不同语言.runtimeconfig.json
+D:\C#学习代码\三种不同语言\三种不同语言\bin\Debug\netcoreapp2.0\三种不同语言.runtimeconfig.dev.json
+D:\C#学习代码\三种不同语言\三种不同语言\bin\Debug\netcoreapp2.0\三种不同语言.dll
+D:\C#学习代码\三种不同语言\三种不同语言\bin\Debug\netcoreapp2.0\三种不同语言.pdb
+D:\C#学习代码\三种不同语言\三种不同语言\obj\Debug\netcoreapp2.0\三种不同语言.csprojAssemblyReference.cache
+D:\C#学习代码\三种不同语言\三种不同语言\obj\Debug\netcoreapp2.0\三种不同语言.csproj.CoreCompileInputs.cache
+D:\C#学习代码\三种不同语言\三种不同语言\obj\Debug\netcoreapp2.0\三种不同语言.AssemblyInfoInputs.cache
+D:\C#学习代码\三种不同语言\三种不同语言\obj\Debug\netcoreapp2.0\三种不同语言.AssemblyInfo.cs
+D:\C#学习代码\三种不同语言\三种不同语言\obj\Debug\netcoreapp2.0\三种不同语言.dll
+D:\C#学习代码\三种不同语言\三种不同语言\obj\Debug\netcoreapp2.0\三种不同语言.pdb

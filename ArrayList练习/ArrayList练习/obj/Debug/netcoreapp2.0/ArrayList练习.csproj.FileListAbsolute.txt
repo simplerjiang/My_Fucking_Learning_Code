@@ -1,0 +1,11 @@
+D:\C#学习代码\ArrayList练习\ArrayList练习\bin\Debug\netcoreapp2.0\ArrayList练习.deps.json
+D:\C#学习代码\ArrayList练习\ArrayList练习\bin\Debug\netcoreapp2.0\ArrayList练习.runtimeconfig.json
+D:\C#学习代码\ArrayList练习\ArrayList练习\bin\Debug\netcoreapp2.0\ArrayList练习.runtimeconfig.dev.json
+D:\C#学习代码\ArrayList练习\ArrayList练习\bin\Debug\netcoreapp2.0\ArrayList练习.dll
+D:\C#学习代码\ArrayList练习\ArrayList练习\bin\Debug\netcoreapp2.0\ArrayList练习.pdb
+D:\C#学习代码\ArrayList练习\ArrayList练习\obj\Debug\netcoreapp2.0\ArrayList练习.csprojAssemblyReference.cache
+D:\C#学习代码\ArrayList练习\ArrayList练习\obj\Debug\netcoreapp2.0\ArrayList练习.csproj.CoreCompileInputs.cache
+D:\C#学习代码\ArrayList练习\ArrayList练习\obj\Debug\netcoreapp2.0\ArrayList练习.AssemblyInfoInputs.cache
+D:\C#学习代码\ArrayList练习\ArrayList练习\obj\Debug\netcoreapp2.0\ArrayList练习.AssemblyInfo.cs
+D:\C#学习代码\ArrayList练习\ArrayList练习\obj\Debug\netcoreapp2.0\ArrayList练习.dll
+D:\C#学习代码\ArrayList练习\ArrayList练习\obj\Debug\netcoreapp2.0\ArrayList练习.pdb

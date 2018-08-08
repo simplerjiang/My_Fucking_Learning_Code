@@ -1,0 +1,9 @@
+D:\C#学习代码\上下文菜单\上下文菜单\bin\Debug\上下文菜单.exe.config
+D:\C#学习代码\上下文菜单\上下文菜单\bin\Debug\上下文菜单.exe
+D:\C#学习代码\上下文菜单\上下文菜单\bin\Debug\上下文菜单.pdb
+D:\C#学习代码\上下文菜单\上下文菜单\obj\Debug\上下文菜单.Form1.resources
+D:\C#学习代码\上下文菜单\上下文菜单\obj\Debug\上下文菜单.Properties.Resources.resources
+D:\C#学习代码\上下文菜单\上下文菜单\obj\Debug\上下文菜单.csproj.GenerateResource.cache
+D:\C#学习代码\上下文菜单\上下文菜单\obj\Debug\上下文菜单.csproj.CoreCompileInputs.cache
+D:\C#学习代码\上下文菜单\上下文菜单\obj\Debug\上下文菜单.exe
+D:\C#学习代码\上下文菜单\上下文菜单\obj\Debug\上下文菜单.pdb

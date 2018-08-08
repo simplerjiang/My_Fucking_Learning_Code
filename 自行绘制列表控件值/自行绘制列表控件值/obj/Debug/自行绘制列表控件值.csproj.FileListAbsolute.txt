@@ -1,0 +1,10 @@
+D:\C#学习代码\自行绘制列表控件值\自行绘制列表控件值\bin\Debug\自行绘制列表控件值.exe.config
+D:\C#学习代码\自行绘制列表控件值\自行绘制列表控件值\bin\Debug\自行绘制列表控件值.exe
+D:\C#学习代码\自行绘制列表控件值\自行绘制列表控件值\bin\Debug\自行绘制列表控件值.pdb
+D:\C#学习代码\自行绘制列表控件值\自行绘制列表控件值\obj\Debug\自行绘制列表控件值.csprojAssemblyReference.cache
+D:\C#学习代码\自行绘制列表控件值\自行绘制列表控件值\obj\Debug\自行绘制列表控件值.Form1.resources
+D:\C#学习代码\自行绘制列表控件值\自行绘制列表控件值\obj\Debug\自行绘制列表控件值.Properties.Resources.resources
+D:\C#学习代码\自行绘制列表控件值\自行绘制列表控件值\obj\Debug\自行绘制列表控件值.csproj.GenerateResource.cache
+D:\C#学习代码\自行绘制列表控件值\自行绘制列表控件值\obj\Debug\自行绘制列表控件值.csproj.CoreCompileInputs.cache
+D:\C#学习代码\自行绘制列表控件值\自行绘制列表控件值\obj\Debug\自行绘制列表控件值.exe
+D:\C#学习代码\自行绘制列表控件值\自行绘制列表控件值\obj\Debug\自行绘制列表控件值.pdb

@@ -1,0 +1,11 @@
+D:\C#学习代码\设置窗口\设置窗口\bin\Debug\netcoreapp2.0\设置窗口.deps.json
+D:\C#学习代码\设置窗口\设置窗口\bin\Debug\netcoreapp2.0\设置窗口.runtimeconfig.json
+D:\C#学习代码\设置窗口\设置窗口\bin\Debug\netcoreapp2.0\设置窗口.runtimeconfig.dev.json
+D:\C#学习代码\设置窗口\设置窗口\bin\Debug\netcoreapp2.0\设置窗口.dll
+D:\C#学习代码\设置窗口\设置窗口\bin\Debug\netcoreapp2.0\设置窗口.pdb
+D:\C#学习代码\设置窗口\设置窗口\obj\Debug\netcoreapp2.0\设置窗口.csprojAssemblyReference.cache
+D:\C#学习代码\设置窗口\设置窗口\obj\Debug\netcoreapp2.0\设置窗口.csproj.CoreCompileInputs.cache
+D:\C#学习代码\设置窗口\设置窗口\obj\Debug\netcoreapp2.0\设置窗口.AssemblyInfoInputs.cache
+D:\C#学习代码\设置窗口\设置窗口\obj\Debug\netcoreapp2.0\设置窗口.AssemblyInfo.cs
+D:\C#学习代码\设置窗口\设置窗口\obj\Debug\netcoreapp2.0\设置窗口.dll
+D:\C#学习代码\设置窗口\设置窗口\obj\Debug\netcoreapp2.0\设置窗口.pdb

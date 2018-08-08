@@ -1,0 +1,10 @@
+D:\C#学习代码\异步加载图片\异步加载图片\bin\Debug\异步加载图片.exe.config
+D:\C#学习代码\异步加载图片\异步加载图片\bin\Debug\异步加载图片.exe
+D:\C#学习代码\异步加载图片\异步加载图片\bin\Debug\异步加载图片.pdb
+D:\C#学习代码\异步加载图片\异步加载图片\obj\Debug\异步加载图片.csprojAssemblyReference.cache
+D:\C#学习代码\异步加载图片\异步加载图片\obj\Debug\异步加载图片.Form1.resources
+D:\C#学习代码\异步加载图片\异步加载图片\obj\Debug\异步加载图片.Properties.Resources.resources
+D:\C#学习代码\异步加载图片\异步加载图片\obj\Debug\异步加载图片.csproj.GenerateResource.cache
+D:\C#学习代码\异步加载图片\异步加载图片\obj\Debug\异步加载图片.csproj.CoreCompileInputs.cache
+D:\C#学习代码\异步加载图片\异步加载图片\obj\Debug\异步加载图片.exe
+D:\C#学习代码\异步加载图片\异步加载图片\obj\Debug\异步加载图片.pdb

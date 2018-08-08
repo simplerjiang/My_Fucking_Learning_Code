@@ -1,0 +1,11 @@
+D:\C#学习代码\ReadKey方法\ReadKey方法\bin\Release\netcoreapp2.0\ReadKey方法.deps.json
+D:\C#学习代码\ReadKey方法\ReadKey方法\bin\Release\netcoreapp2.0\ReadKey方法.runtimeconfig.json
+D:\C#学习代码\ReadKey方法\ReadKey方法\bin\Release\netcoreapp2.0\ReadKey方法.runtimeconfig.dev.json
+D:\C#学习代码\ReadKey方法\ReadKey方法\bin\Release\netcoreapp2.0\ReadKey方法.dll
+D:\C#学习代码\ReadKey方法\ReadKey方法\bin\Release\netcoreapp2.0\ReadKey方法.pdb
+D:\C#学习代码\ReadKey方法\ReadKey方法\obj\Release\netcoreapp2.0\ReadKey方法.csproj.CoreCompileInputs.cache
+D:\C#学习代码\ReadKey方法\ReadKey方法\obj\Release\netcoreapp2.0\ReadKey方法.AssemblyInfoInputs.cache
+D:\C#学习代码\ReadKey方法\ReadKey方法\obj\Release\netcoreapp2.0\ReadKey方法.AssemblyInfo.cs
+D:\C#学习代码\ReadKey方法\ReadKey方法\obj\Release\netcoreapp2.0\ReadKey方法.dll
+D:\C#学习代码\ReadKey方法\ReadKey方法\obj\Release\netcoreapp2.0\ReadKey方法.pdb
+D:\C#学习代码\ReadKey方法\ReadKey方法\obj\Release\netcoreapp2.0\ReadKey方法.csprojAssemblyReference.cache

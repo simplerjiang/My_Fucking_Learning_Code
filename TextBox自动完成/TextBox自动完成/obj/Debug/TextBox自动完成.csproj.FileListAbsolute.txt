@@ -1,0 +1,10 @@
+D:\C#学习代码\TextBox自动完成\TextBox自动完成\bin\Debug\TextBox自动完成.exe.config
+D:\C#学习代码\TextBox自动完成\TextBox自动完成\bin\Debug\TextBox自动完成.exe
+D:\C#学习代码\TextBox自动完成\TextBox自动完成\bin\Debug\TextBox自动完成.pdb
+D:\C#学习代码\TextBox自动完成\TextBox自动完成\obj\Debug\TextBox自动完成.csprojAssemblyReference.cache
+D:\C#学习代码\TextBox自动完成\TextBox自动完成\obj\Debug\TextBox自动完成.Form1.resources
+D:\C#学习代码\TextBox自动完成\TextBox自动完成\obj\Debug\TextBox自动完成.Properties.Resources.resources
+D:\C#学习代码\TextBox自动完成\TextBox自动完成\obj\Debug\TextBox自动完成.csproj.GenerateResource.cache
+D:\C#学习代码\TextBox自动完成\TextBox自动完成\obj\Debug\TextBox自动完成.csproj.CoreCompileInputs.cache
+D:\C#学习代码\TextBox自动完成\TextBox自动完成\obj\Debug\TextBox自动完成.exe
+D:\C#学习代码\TextBox自动完成\TextBox自动完成\obj\Debug\TextBox自动完成.pdb

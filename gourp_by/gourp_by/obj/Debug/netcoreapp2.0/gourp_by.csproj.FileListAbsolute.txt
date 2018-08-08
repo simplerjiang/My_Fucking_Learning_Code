@@ -1,0 +1,11 @@
+D:\C#学习代码\gourp_by\gourp_by\bin\Debug\netcoreapp2.0\gourp_by.deps.json
+D:\C#学习代码\gourp_by\gourp_by\bin\Debug\netcoreapp2.0\gourp_by.runtimeconfig.json
+D:\C#学习代码\gourp_by\gourp_by\bin\Debug\netcoreapp2.0\gourp_by.runtimeconfig.dev.json
+D:\C#学习代码\gourp_by\gourp_by\bin\Debug\netcoreapp2.0\gourp_by.dll
+D:\C#学习代码\gourp_by\gourp_by\bin\Debug\netcoreapp2.0\gourp_by.pdb
+D:\C#学习代码\gourp_by\gourp_by\obj\Debug\netcoreapp2.0\gourp_by.csprojAssemblyReference.cache
+D:\C#学习代码\gourp_by\gourp_by\obj\Debug\netcoreapp2.0\gourp_by.csproj.CoreCompileInputs.cache
+D:\C#学习代码\gourp_by\gourp_by\obj\Debug\netcoreapp2.0\gourp_by.AssemblyInfoInputs.cache
+D:\C#学习代码\gourp_by\gourp_by\obj\Debug\netcoreapp2.0\gourp_by.AssemblyInfo.cs
+D:\C#学习代码\gourp_by\gourp_by\obj\Debug\netcoreapp2.0\gourp_by.dll
+D:\C#学习代码\gourp_by\gourp_by\obj\Debug\netcoreapp2.0\gourp_by.pdb

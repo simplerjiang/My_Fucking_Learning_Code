@@ -1,0 +1,4 @@
+D:\C#学习代码\LINQ语句\LINQ语句\obj\Debug\netcoreapp2.0\LINQ语句.csprojAssemblyReference.cache
+D:\C#学习代码\LINQ语句\LINQ语句\obj\Debug\netcoreapp2.0\LINQ语句.csproj.CoreCompileInputs.cache
+D:\C#学习代码\LINQ语句\LINQ语句\obj\Debug\netcoreapp2.0\LINQ语句.AssemblyInfoInputs.cache
+D:\C#学习代码\LINQ语句\LINQ语句\obj\Debug\netcoreapp2.0\LINQ语句.AssemblyInfo.cs

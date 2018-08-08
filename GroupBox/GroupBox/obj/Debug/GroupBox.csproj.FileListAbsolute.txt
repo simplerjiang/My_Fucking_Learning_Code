@@ -1,0 +1,9 @@
+D:\C#学习代码\GroupBox\GroupBox\bin\Debug\GroupBox.exe.config
+D:\C#学习代码\GroupBox\GroupBox\bin\Debug\GroupBox.exe
+D:\C#学习代码\GroupBox\GroupBox\bin\Debug\GroupBox.pdb
+D:\C#学习代码\GroupBox\GroupBox\obj\Debug\GroupBox.Form1.resources
+D:\C#学习代码\GroupBox\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+D:\C#学习代码\GroupBox\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.cache
+D:\C#学习代码\GroupBox\GroupBox\obj\Debug\GroupBox.csproj.CoreCompileInputs.cache
+D:\C#学习代码\GroupBox\GroupBox\obj\Debug\GroupBox.exe
+D:\C#学习代码\GroupBox\GroupBox\obj\Debug\GroupBox.pdb

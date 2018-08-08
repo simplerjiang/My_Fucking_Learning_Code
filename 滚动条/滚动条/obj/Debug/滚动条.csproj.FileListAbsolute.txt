@@ -1,0 +1,10 @@
+D:\C#学习代码\滚动条\滚动条\bin\Debug\滚动条.exe.config
+D:\C#学习代码\滚动条\滚动条\bin\Debug\滚动条.exe
+D:\C#学习代码\滚动条\滚动条\bin\Debug\滚动条.pdb
+D:\C#学习代码\滚动条\滚动条\obj\Debug\滚动条.csprojAssemblyReference.cache
+D:\C#学习代码\滚动条\滚动条\obj\Debug\滚动条.Form1.resources
+D:\C#学习代码\滚动条\滚动条\obj\Debug\滚动条.Properties.Resources.resources
+D:\C#学习代码\滚动条\滚动条\obj\Debug\滚动条.csproj.GenerateResource.cache
+D:\C#学习代码\滚动条\滚动条\obj\Debug\滚动条.csproj.CoreCompileInputs.cache
+D:\C#学习代码\滚动条\滚动条\obj\Debug\滚动条.exe
+D:\C#学习代码\滚动条\滚动条\obj\Debug\滚动条.pdb

@@ -1,0 +1,10 @@
+D:\C#学习代码\Radio控件\Radio控件\bin\Debug\Radio控件.exe.config
+D:\C#学习代码\Radio控件\Radio控件\bin\Debug\Radio控件.exe
+D:\C#学习代码\Radio控件\Radio控件\bin\Debug\Radio控件.pdb
+D:\C#学习代码\Radio控件\Radio控件\obj\Debug\Radio控件.csprojAssemblyReference.cache
+D:\C#学习代码\Radio控件\Radio控件\obj\Debug\Radio控件.Form1.resources
+D:\C#学习代码\Radio控件\Radio控件\obj\Debug\Radio控件.Properties.Resources.resources
+D:\C#学习代码\Radio控件\Radio控件\obj\Debug\Radio控件.csproj.GenerateResource.cache
+D:\C#学习代码\Radio控件\Radio控件\obj\Debug\Radio控件.csproj.CoreCompileInputs.cache
+D:\C#学习代码\Radio控件\Radio控件\obj\Debug\Radio控件.exe
+D:\C#学习代码\Radio控件\Radio控件\obj\Debug\Radio控件.pdb

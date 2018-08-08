@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "登陆", "登陆\登陆.csproj", "{5A8FEC44-3912-400A-8854-B3FC255B86FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A8FEC44-3912-400A-8854-B3FC255B86FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A8FEC44-3912-400A-8854-B3FC255B86FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A8FEC44-3912-400A-8854-B3FC255B86FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A8FEC44-3912-400A-8854-B3FC255B86FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37368FDE-7092-4450-A76D-8A8225AFADEC}
+	EndGlobalSection
+EndGlobal

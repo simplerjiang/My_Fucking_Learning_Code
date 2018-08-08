@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "复制数组", "复制数组\复制数组.csproj", "{ED830B05-5D9D-4152-9CE8-430AE347F900}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED830B05-5D9D-4152-9CE8-430AE347F900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED830B05-5D9D-4152-9CE8-430AE347F900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED830B05-5D9D-4152-9CE8-430AE347F900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED830B05-5D9D-4152-9CE8-430AE347F900}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {827E9D8E-AD8B-4A12-B5B9-FB2068EF8B60}
+	EndGlobalSection
+EndGlobal

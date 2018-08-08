@@ -1,0 +1,11 @@
+D:\C#学习代码\栈与队列\栈与队列\bin\Debug\netcoreapp2.0\栈与队列.deps.json
+D:\C#学习代码\栈与队列\栈与队列\bin\Debug\netcoreapp2.0\栈与队列.runtimeconfig.json
+D:\C#学习代码\栈与队列\栈与队列\bin\Debug\netcoreapp2.0\栈与队列.runtimeconfig.dev.json
+D:\C#学习代码\栈与队列\栈与队列\bin\Debug\netcoreapp2.0\栈与队列.dll
+D:\C#学习代码\栈与队列\栈与队列\bin\Debug\netcoreapp2.0\栈与队列.pdb
+D:\C#学习代码\栈与队列\栈与队列\obj\Debug\netcoreapp2.0\栈与队列.csprojAssemblyReference.cache
+D:\C#学习代码\栈与队列\栈与队列\obj\Debug\netcoreapp2.0\栈与队列.csproj.CoreCompileInputs.cache
+D:\C#学习代码\栈与队列\栈与队列\obj\Debug\netcoreapp2.0\栈与队列.AssemblyInfoInputs.cache
+D:\C#学习代码\栈与队列\栈与队列\obj\Debug\netcoreapp2.0\栈与队列.AssemblyInfo.cs
+D:\C#学习代码\栈与队列\栈与队列\obj\Debug\netcoreapp2.0\栈与队列.dll
+D:\C#学习代码\栈与队列\栈与队列\obj\Debug\netcoreapp2.0\栈与队列.pdb
